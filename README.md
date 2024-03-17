@@ -20,7 +20,7 @@
 </ul>
 <h3 align="left">Project 2: Fitness Logger</h3>
 <ul>
-  <li>Description: Fitness Logger is your comprehensive fitness companion designed to help you achieve your health and wellness goals effectively. Whether you're a seasoned gym-goer or just starting your fitness journey, FitLog provides the tools and insights you need to stay on track and reach your milestones.</li>
+  <li>Description: Fitness Logger is your comprehensive fitness companion designed to help you achieve your health and wellness goals effectively. Whether you're a seasoned gym-goer or just starting your fitness journey, Fitness Logger provides the tools and insights you need to stay on track and reach your milestones.</li>
   <li>Tech Stack: C++, Visual Studio</li>
   <li>Github Repo Link: https://github.com/Rinzler8x/Fitness-Logger.git</li>
 </ul>
