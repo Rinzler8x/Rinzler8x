@@ -4,7 +4,7 @@
 <hr>
 <h3>🚀 About me</h3>
 <ul>
-  <li>🎓 I'm currently pursuing Bachelors of Computer Engineering-Majoring in AI/ML.</li>
+  <li>🎓 I'm currently pursuing Bachelors of Computer Engineering, with Honours in AI/ML.</li>
   <li>💼 Professionally, I'm very interested in pursuing a career in Android Development.</li>
   <li>🌱 I’m currently learning Android Development, Kotlin, Jetpack Compose.</li>
   <li>⚡ Fun fact: I have an interest in all things involving Linux and Virtualization.</li>
