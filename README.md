@@ -16,13 +16,19 @@
 <ul>
   <li>Description: "Bill Time" is a user-friendly app designed to streamline bill splitting among friends. Simply input the total bill amount, select the number of people, and Bill Time will automatically calculate each person's share, taking into account optional features like tip percentage. It simplifies the process of settling group expenses, ensuring fairness and convenience for everyone involved. </li>
   <li>Tech Stack: Kotlin, Jetpack Compose, Android Studio</li>
-  <li>Github Repo Link: https://github.com/Rinzler8x/Bill-Time.git</li>
+  <li>Github Repo Link: https://github.com/Rinzler8x/Bill-Time</li>
 </ul>
-<h3 align="left">Project 2: Fitness Logger</h3>
+<h3 align="left">Project 2: Bus Ticket Booking</h3>
+<ul>
+  <li>Description: The Bus Ticket Booking System is a Java Swing application designed to facilitate the process of booking bus tickets for passengers.</li>
+  <li>Tech Stack: Java, Java Swing, JDBC, Netbeans</li>
+  <li>Github Repo Link: https://github.com/Rinzler8x/Bus-Ticket-Booking</li>
+</ul>
+<h3 align="left">Project 3: Fitness Logger</h3>
 <ul>
   <li>Description: Fitness Logger is your comprehensive fitness companion designed to help you achieve your health and wellness goals effectively. Whether you're a seasoned gym-goer or just starting your fitness journey, Fitness Logger provides the tools and insights you need to stay on track and reach your milestones.</li>
   <li>Tech Stack: C++, Visual Studio</li>
-  <li>Github Repo Link: https://github.com/Rinzler8x/Fitness-Logger.git</li>
+  <li>Github Repo Link: https://github.com/Rinzler8x/Fitness-Logger</li>
 </ul>
 <p align="left"></a>
 </p>
