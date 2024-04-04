@@ -24,7 +24,13 @@
   <li>Tech Stack: Java, Java Swing, JDBC, Netbeans</li>
   <li>Github Repo Link: https://github.com/Rinzler8x/Bus-Ticket-Booking</li>
 </ul>
-<h3 align="left">Project 3: Fitness Logger</h3>
+<h3 align="left">Project 3: Game Verse</h3>
+<ul>
+  <li>Description: Game Verse is an immersive online platform designed for gaming enthusiasts to explore, purchase, and connect with their favorite video games. With an intuitive user interface and a wide selection of titles, Gamer Verse aims to be the one stop destination for all your video game needs.</li>
+  <li>Tech Stack: HTML, CSS, JavaScript, PHP, SQL, Visual Studio Code</li>
+  <li>Github Repo Link: https://github.com/Rinzler8x/Game-Verse</li>
+</ul>
+<h3 align="left">Project 4: Fitness Logger</h3>
 <ul>
   <li>Description: Fitness Logger is your comprehensive fitness companion designed to help you achieve your health and wellness goals effectively. Whether you're a seasoned gym-goer or just starting your fitness journey, Fitness Logger provides the tools and insights you need to stay on track and reach your milestones.</li>
   <li>Tech Stack: C++, Visual Studio</li>
