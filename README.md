@@ -18,11 +18,11 @@
   <li>Tech Stack: Kotlin, Jetpack Compose, Android Studio</li>
   <li>Github Repo Link: https://github.com/Rinzler8x/Bill-Time</li>
 </ul>
-<h3 align="left">Project 2: Bus Ticket Booking</h3>
+<h3 align="left">Project 2: Connect 4</h3>
 <ul>
-  <li>Description: The Bus Ticket Booking System is a Java Swing application designed to facilitate the process of booking bus tickets for passengers.</li>
-  <li>Tech Stack: Java, Java Swing, JDBC, Netbeans</li>
-  <li>Github Repo Link: https://github.com/Rinzler8x/Bus-Ticket-Booking</li>
+  <li>Description: In our implementation of connect 4 we have introduced an AI player. The AI player implements min-max and alpha-beta pruning algorithm to make it's decision.</li>
+  <li>Tech Stack: JavaScript, React, Python, FastAPI.</li>
+  <li>Github Repo Link: https://github.com/Rinzler8x/Connect-4</li>
 </ul>
 <h3 align="left">Project 3: Game Verse</h3>
 <ul>
