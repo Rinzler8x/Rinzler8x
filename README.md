@@ -21,7 +21,7 @@
 <h3 align="left">Project 2: Connect 4</h3>
 <ul>
   <li>Description: In our implementation of connect 4 we have introduced an AI player. The AI player implements min-max and alpha-beta pruning algorithm to make it's decision.</li>
-  <li>Tech Stack: JavaScript, React, Python, FastAPI, Visual Studio Code.</li>
+  <li>Tech Stack: JavaScript, React, Bootstrap, Python, FastAPI, Visual Studio Code.</li>
   <li>Github Repo Link: https://github.com/Rinzler8x/Connect-4</li>
 </ul>
 <h3 align="left">Project 3: Game Verse</h3>
