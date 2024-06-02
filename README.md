@@ -15,19 +15,19 @@
 <h3 align="left">Project 1: Bill Time</h3>
 <ul>
   <li>Description: "Bill Time" is a user-friendly app designed to streamline bill splitting among friends. Simply input the total bill amount, select the number of people, and Bill Time will automatically calculate each person's share, taking into account optional features like tip percentage. It simplifies the process of settling group expenses, ensuring fairness and convenience for everyone involved. </li>
-  <li>Tech Stack: Kotlin, Jetpack Compose, Android Studio</li>
+  <li>Tech Stack: <b>Kotlin, Jetpack Compose, Android Studio</b></li>
   <li>Github Repo Link: https://github.com/Rinzler8x/Bill-Time</li>
 </ul>
 <h3 align="left">Project 2: Connect 4</h3>
 <ul>
   <li>Description: In our implementation of connect 4 we have introduced an AI player. The AI player implements min-max and alpha-beta pruning algorithm to make it's decision.</li>
-  <li>Tech Stack: JavaScript, React, Bootstrap, Python, FastAPI, Visual Studio Code.</li>
+  <li>Tech Stack: <b>JavaScript, React, Bootstrap, Python, FastAPI, Visual Studio Code</b></li>
   <li>Github Repo Link: https://github.com/Rinzler8x/Connect-4</li>
 </ul>
 <h3 align="left">Project 3: Game Verse</h3>
 <ul>
   <li>Description: Game Verse is an immersive online platform designed for gaming enthusiasts to explore, purchase, and connect with their favorite video games. With an intuitive user interface and a wide selection of titles, Gamer Verse aims to be the one stop destination for all your video game needs.</li>
-  <li>Tech Stack: HTML, CSS, JavaScript, PHP, SQL, Visual Studio Code</li>
+  <li>Tech Stack: <b>HTML, CSS, JavaScript, PHP, SQL, Visual Studio Code</b></li>
   <li>Github Repo Link: https://github.com/Rinzler8x/Game-Verse</li>
 </ul>
 <!-- <h3 align="left">Project 4: Fitness Logger</h3>
