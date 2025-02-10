@@ -42,7 +42,7 @@
 <h3 align="left">🔧 Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,linux,bash,docker" />
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,linux,bash,git,docker" />
   </a>
 </p>
 <p align="left">
