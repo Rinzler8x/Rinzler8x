@@ -42,17 +42,17 @@
 <h3 align="left">🔧 Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,linux,bash,git,docker" />
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,linux,bash,git" />
   </a>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,js,react,tailwind,vite" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,react,tailwind,vite" />
   </a>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,mysql,php,r,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,sqlite,firebase,vscode,docker" />
   </a>
 </p>
 <hr>
