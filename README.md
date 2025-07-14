@@ -28,7 +28,7 @@
 <ul>
   <li>Description: SurveilMap, a winning submission of Goa Police 48-Hour Hackathon 2024, is a mobile and web-based application designed to assist investigating officers in locating and navigating to nearby CCTV cameras using the Google Maps API. The system allows searches based on camera type or a configurable search radius, helping officers efficiently identify surveillance resources in an area. Additionally, officers can add, update, or delete cameras through the mobile interface or mass upload using excel using the web dashboard, ensuring up-to-date surveillance data for field operations.</li>
   <li>Tech Stack: <b>React Native, React, Tailwind CSS, Shadcn, Firebase, Google Maps API & FastAPI</b></li>
-  <li>Github Repo Link: https://github.com/Rinzler8x/Game-Verse</li>
+  <li>Github Repo Link: https://github.com/Rinzler8x/cctv-admin</li>
 </ul>
 
 <p align="left"></a>
