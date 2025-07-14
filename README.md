@@ -15,7 +15,7 @@
 <h3 align="left">Project 1: Monopoly Ultimate Banker</h3>
 <ul>
   <li>Description: "Monopoly Ultimate Banker" is an Android app that replaces the physical card reader in Monopoly Ultimate Banking. The app uses QR code-based scanning to handle player transactions and property management. Designed to work serverless, it leverages Firebase Realtime Database to provide a real-time updates, combined with SQLite and Room Library to handle intricate game logic using SQL queries. It modernizes gameplay while retaining the original board game experience.</li>
-  <li>Tech Stack: <b>Kotlin, Jetpack Compose, Firebase, SQLite with Room Library, Daggger Hilt & Android Studio</b></li>
+  <li>Tech Stack: <b>Kotlin, Jetpack Compose, ML Kit, Firebase, SQLite with Room Library, Daggger Hilt & Android Studio</b></li>
   <li>Github Repo Link: https://github.com/Rinzler8x/MonopolyUltimateBanker</li>
 </ul>
 <h3 align="left">Project 2: PulmoSense</h3>
